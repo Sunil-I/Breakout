@@ -1,0 +1,21 @@
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.xml
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.form.resources
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.Resources.resources
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.vbproj.GenerateResource.Cache
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.xml
+\\file-student\studenthomes\46204\visual studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+U:\Visual Studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+U:\Visual Studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.xml
+U:\Visual Studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+U:\Visual Studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+U:\Visual Studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+U:\Visual Studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.xml
+U:\Visual Studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.form.resources
+U:\Visual Studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.Resources.resources
+U:\Visual Studio 2010\Projects\Breakout\Breakout\obj\x86\Debug\Breakout.vbproj.GenerateResource.Cache
+C:\Users\46204\git\games\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\46204\git\games\Breakout\Breakout\obj\x86\Debug\Breakout.xml
+C:\Users\46204\git\games\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
